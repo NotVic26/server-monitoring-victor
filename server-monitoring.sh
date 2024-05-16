@@ -1,6 +1,6 @@
 #!/bin/bash
 PATH=/usr/sbin:/sbin:/usr/bin:/bin
-
+#prueba
 # ==========================
 # Server monitoring script
 # 
